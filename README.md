@@ -84,4 +84,4 @@ This project can enhance public transport operations and city planning by:
 
 ## 📎 Reports
 
-A detailed project report is included in [Toronto Transit Commission Delay Time Data Analytics Report (2014–2024)](https://open.toronto.ca/dataset/ttc-bus-delay-data), covering methodology, model performance, results, and recommendations.
+A detailed project report is included in [Toronto Transit Commission Delay Time Data Analytics Report (2014–2024)](https://github.com/vihar023/TTC-Delay-Time-Data-Analytics-Report-2014-2024/blob/main/Toronto%20Transit%20Commission%20Delay%20Time%20Data%20Analytics%20Report%20(2014%E2%80%932024).pdf), covering methodology, model performance, results, and recommendations.
